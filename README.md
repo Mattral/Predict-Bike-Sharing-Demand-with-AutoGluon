@@ -40,13 +40,13 @@ Will spend more time on future engineering and hyper parameter tuning as both ar
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](PROJECT/img/model_train_score.png)
+![model_train_score.png](project/img/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_sfcore.png](PRIJECT/img/model_test_score.png)
+![model_test_sfcore.png](project/img/model_test_score.png)
 
 ## Summary
 In this project, we have obtained/explored following steps in the ML Lifecycle.
